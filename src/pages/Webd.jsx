@@ -3,7 +3,9 @@ import Main from '../components/section/Main'
 
 const Webd = () => {
   return (
-    <Main>
+    <Main
+      title="웹 디자이너"
+      description="웹 디자이너 튜토리얼 강의입니다.">
         Webd
     </Main>
   )
