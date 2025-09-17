@@ -6,8 +6,10 @@
 @import "setting/reset";
 @import "setting/mixin";
 @import "setting/common";
+@import "setting/main";
 
 // section
 @import "section/layout";
 @import "section/header";
 @import "section/search";
+@import "section/today";
